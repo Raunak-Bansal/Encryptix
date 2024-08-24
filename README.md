@@ -1,5 +1,5 @@
 # Encryptix
-Internship Tasks
+Internship Tasks :-
 The tasks that were completed are Credit-Card-Fraud-Detection , SMS-Spam-Classification , Customer-Churn-Prediction.
 The link for the datasets have been given below :-
 1. Credit-Card-Fraud-Detection  - https://www.kaggle.com/datasets/kartik2112/fraud-detection
